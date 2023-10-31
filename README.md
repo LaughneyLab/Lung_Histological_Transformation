@@ -1,4 +1,4 @@
-# Lung Histological Transformation
+# LUAD --> SCLC Histological Transformation
 
 Repository for main single-cell RNA-seq analyses for the lung cancer histological transformation paper:
 
