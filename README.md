@@ -16,11 +16,11 @@ Raw and processed data are available on GEO under accession XYZ:
 
 ### Docker:
 
-To launch the relevant docker container, use:
+The relevant docker container is available on dockerhub:
 
-`docker import luad_sclc_ht < luad_sclc_ht.tar`
+`docker pull eearlie/luad_sclc_ht`
 
-See [Docker Save as Tar](https://dockerlabs.collabnix.com/beginners/saving-images-as-tar/) for more details.
+See [Docker Pull](https://docs.docker.com/engine/reference/commandline/pull/) for more details.
 
 
 ## Notebooks
