@@ -8,3 +8,20 @@ Raw and processed data are available on GEO under accession XYZ:
 
 <GEO_Link>
 
+## Dependencies
+
+1. Python 3+
+2. Jupyter Notebooks
+3. luad_sclc_ht.tar docker container
+
+### Docker:
+
+To launch the relevant docker container, use:
+
+`docker import luad_sclc_ht < luad_sclc_ht.tar`
+
+See [Docker Save as Tar](https://dockerlabs.collabnix.com/beginners/saving-images-as-tar/) for more details.
+
+
+## Notebooks
+
