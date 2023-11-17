@@ -25,3 +25,23 @@ See [Docker Pull](https://docs.docker.com/engine/reference/commandline/pull/) fo
 
 ## Notebooks
 
+**TEC_Lineage_Probability_Archetype_Visualization.ipynb:**
+
+  * Jupyter notebook for analyzing lung epithelial lineage probabilities.
+  * This notebook includes computing and visualizing the lineage probability archetypes.
+
+
+**Histological_Transformation_Subset_Trajectory_Computation.ipynb:**
+
+  * Jupyter notebook for re-computing CellRank trajectory results for the histological transformation dataset.
+
+
+**Histological_Transformation_Subset_Trajectory_Visualization.ipynb:**
+
+  * Jupyter notebook for visualizing the histological transformation trajectory results and reproducing published figures.
+
+
+### Data
+
+  * Small files used in the above Jupyter Notebooks are available in the data directory of this repository.
+  * Sequencing data are available through the GEO accession listed above.
