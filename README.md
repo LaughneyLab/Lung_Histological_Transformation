@@ -4,7 +4,7 @@ Repository for main single-cell RNA-seq analyses for the lung cancer histologica
 
 https://www.biorxiv.org/content/10.1101/2023.06.21.545980v1
 
-Raw and processed data are available on GEO under accession XYZ:
+Raw and processed data are available on GEO under accession <TBD>:
 
 <GEO_Link>
 
